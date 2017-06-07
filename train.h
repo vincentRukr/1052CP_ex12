@@ -1,3 +1,4 @@
+//git
 struct station{
 	char name;
 	int price[21];//[tsta]

@@ -3,7 +3,7 @@
 #include <string.h>
 #include "train.h"
 //#define debug
-
+//git
 int main (){
 	//input
 	scanf("%d\n",&tsta);
